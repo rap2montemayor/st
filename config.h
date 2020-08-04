@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack:pixelsize=24";
+static char *font = "Hack:pixelsize=20";
 static int borderpx = 12;
 
 /*
